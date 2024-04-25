@@ -38,4 +38,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Replace `Jishnu t raj` with your name or preferred author attribution. You can also add additional sections or details as needed. Once you have prepared your README.md file, you can upload it along with your project files to your GitHub repository.
